@@ -10,4 +10,4 @@ To run the application on your local machine, follow the following steps:
 >3. run the application using `npm start` and the server will be up and running at `port 3000` by default.
 
 ### Here is a glimpse of the application.
-![Notes-Web-App] (Notes-Web-App.png)
+![Notes-Web-App](Notes-Web-App.png?raw=true "Optional Title")
